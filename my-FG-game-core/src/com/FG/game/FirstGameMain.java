@@ -7,6 +7,8 @@ import com.badlogic.gdx.graphics.Texture;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 //Zack was here
 //Testing out github
+/* Shanice was here
+*/
 public class FirstGameMain extends ApplicationAdapter {
 	SpriteBatch batch;
 	Texture img;
