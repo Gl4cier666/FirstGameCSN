@@ -9,6 +9,7 @@ import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 //Testing out github
 /* Shanice was here
 */
+//cammy is the greatest
 public class FirstGameMain extends ApplicationAdapter {
 	SpriteBatch batch;
 	Texture img;
